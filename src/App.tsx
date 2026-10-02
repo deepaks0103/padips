@@ -110,7 +110,7 @@ export const App: React.FC = () => {
             </motion.button>
           )}
 
-          {/* STEP 1: Passcode Screen (Passcode: 1029) */}
+          {/* STEP 1: Passcode Screen (Passcode: 1028) */}
           {!isPasscodeUnlocked ? (
             <PasscodePage onUnlockSuccess={handlePasscodeSuccess} />
           ) : (

@@ -1,4 +1,4 @@
-export const BIRTHDAY_CODE = "1029";
+export const BIRTHDAY_CODE = "1028";
 
 export const PASSCODE_CONFIG = {
   heading: "ENTER A PASSCODE",
